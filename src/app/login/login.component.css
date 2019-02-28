@@ -1,0 +1,20 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
+
+  .example-card {
+    max-width: 400px;
+  }
+  
+  .example-header-image {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaDuTCGsxo2B-butJaaWQQmjJzmUcAOnX8n69Tr5tkiVLUjdoS');
+    background-size: cover;
+  }
+  
